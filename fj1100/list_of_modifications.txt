@@ -1,0 +1,134 @@
+List of modifications for Yamaha FJ1100
+
+1. FJ1100 front fork upgrade
+http://www.fjowners.com/index.php?topic=1208.0;wap2
+
+
+Get: FJ1200 Forks, from 89 and newer.
+
+2. Callipers
+Yamaha R1 or R6 up to 2003 mono-block callipers. They are a direct bolt-on to the '89-up FJ1200 fork legs, in either blue-pot, gold-pot, or silver-pot style. Some R-6, FZ-6, FZ-1, FJR1300 front callipers are the same.
+
+3. FZR1000 front rim
+* FZR1000 87 or 88 front rim
+Will also need - 298mm '89 and newer FJ1200 break rotors
+Either buy new OEM Yamaha pads for the R-1, or get some EBC FA252HH front pads (HH rated break pads).
+Use the FJ wheel spacers and speedo drive.
+Make sure you have the tab-washer that actually turns the speedo drive. 
+Use the wheel bearings that came with the wheel, or buy new FJ  bearings.
+
+* FZR1000 1989 and newer rim
+With drilling
+You can use 1989-up FZR1000 wheel, but you will need to drill the fork legs for the 17mm axle, and use the speedo-drive from the FZR1000. You would also need to source an FZR1000 axle and spacers. 
+
+Without drilling:
+Use 6203 LHA Ball Bearing.  Size 15x40x12
+- non-ABS 15mm inner spacer. Spacer from my ABS model is too short.
+- non-ABS collar spacer (between fork and wheel bearing) because ABS one is to short again.
+- FJ1200 15mm axle and speedo driver.
+
+4. Rear rim
+* GSXR 750 90-95 or GSXR 1100 90-98 year rim
+http://www.fj1200.info/Rims.htm
+You need spacers, sprocket, rear disc and brake calliper and 2 big 20mm. flats, that fit to each side of the axel, between the spacers and the swing arm and a longer rear brake hose.
+
+1) You will need everything what comes with the wheel - spacers, calliper hanger, calliper and brake line would help too.
+2) You will also need 2x 4mm spacers with a 17mm diameter hole for on each side of the existing GSXR spacers.
+3) You will need to get a tab welded to the underside of the swing arm (or another appropriate mounting point depending on the length of the torque arm)to connect the GSXR brake torque arm too.
+4) You will also probably need to get an aftermarket rear sprocket for the GSXR wheel, as I think the smallest standard one is 43 tooth.
+
+Other rear mods:
+YZF600 rear
+1988 FZR 1000
+
+5. Master cylinder:
+Fit a FZR 600, 1000 or FJR 1300 Nissin (not Brembo) master cylinder (all of them are the same item)
+
+
+6. Sprockets
+Best sprocket combinations:
+Suzuki 38 tooth rear sprocket
+1. 18/38
+2. 18/39
+3. 110 links chain.
+
+
+7. Miscellaneous upgrades
+
+* Steel braided break lines
+* HH rated break pads
+* New fork springs
+* Spring conversion kit
+http://www.barnettclutches.com/fits-all-yamaha-fj1100-1200-models.html
+Converts stock diaphragm spring to six coil springs. Provides a more progressive, controllable engagement. Billet pressure plate and springs included- replaces stock pressure plate/spring.
+
+8. Sport air filter
+http://www.ebay.com/itm/SPORTLUFTFILTER-MOXI-RACING-LUFTFILTER-OFFENE-XS-1100-FJ-CAFE-RACER-AIR-FILTER-/251247997936?hash=item3a7f8c33f0
+9. New cafe racer seat
+http://www.ebay.com/itm/Yamaha-FJ-1100-1200-Cover-Seat-upholstery-Modification-/131576890666?hash=item1ea298052a
+http://www.ebay.com/itm/Cafe-racer-SEAT-no-pad-for-Yamaha-Honda-Kawasaki-Suzuki-SPRITE-ABS-/201408397420?hash=item2ee4e0406c&vxp=mtr
+http://allegro.pl/kanapa-zadupek-cafe-racer-custom-brat-style-retro-i5602780160.html
+60 long - 30 cm wide
+
+spin-on oil filter
+alarm system
+new corbin
+cartridge forks
+new zzz chain
+©ª£ or CBR 1000 shock shock mod
+vtr 1000 exhaust cans
+
+
+Bought so far:
+- Front Callipers - Yamaha R6 2001 - 92 PLN
+- 4 Sport air filters (cones) - 114 PLN
+- 2 Oil filters - 30 PLN
+- Break pads EBC FA252HH - 238 PLN
+- Forks - JF1200 - 1400 NOK
+- Rear signal lights - 74 PLN
+- Front signal lights - 32 PLN
+- Stop lights - 82 PLN
+- Signal Horn - Klakson - 41 PLN
+- Sprockets - 38/18 - 103 + 66 PLN
+- Back brake calliper - 39 PLN
+- Uchwyt na hamulec tyl - 31 PLN
+- Rear Wheel Rubber Cush Drive Damper Set - 33 PLN
+- Front wheel - 158 PLN
+- Steel break line back - standard braided line for 92' GSXR750 - 105 PLN
+- Front bearings - 104 PLN
+- Brake rotor back - GSX-R 600 750 1000 K6 K7 L1 3 from 2011 - 109 PLN
+- Rear rim - Suzuki GSXR-750 - 90 PLN 
+- Rear Shock - 106 PLN
+- Yamaha YZF R6 side stand - 52 PLN
+- Seat - 70 PLN
+- Brake fluid - 22 PLN 
+- Exhaust wrap - 202 PLN
+- Axle back - 37 PLN
+- Rim stickers - 24 PLN
+- Engine spray gold - 66 PLN
+- Black engine spray - 70 PLN
+- Black paint - 400 NOK
+- Chain spray - 29 PLN
+- Engine wash - 11 PLN
+- Engine oil -
+- Fork oil -
+
+So far - 6627 NOK
+Bike 10.000 + 2000 veiavgift
+
+What's left to buy:
+- Grips / Manetki - 22 & 25mm
+- Front light
+- Oslona przewodow - 
+- Brake rotors front
+- Steel break line - front
+- Speedo line
+- Uchwyt do reflektora
+- Gumowe oslony teleskopow 
+- 06+ R6 radial master cylinder
+- Fork oil
+- Rear bearings
+- Ramie hamulca na tyl
+- Chain
+- Gumki na przewody
+- Oil
